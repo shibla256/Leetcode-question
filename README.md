@@ -4,9 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shibla256/Leetcode-question/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/shibla256/Leetcode-question/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shibla256/Leetcode-question/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shibla256/Leetcode-question/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shibla256/Leetcode-question/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
